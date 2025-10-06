@@ -1,0 +1,5 @@
+{
+  "name": "VortexLab: Multi-Agent PDE Explorer",
+  "description": "An AI-assisted scientific exploration framework using three specialized agents (Theorist, Simulator, Refutator) in an iterative loop to propose, test, and validate differential equations for diffusion-advection-rotation models.",
+  "requestFramePermissions": []
+}
